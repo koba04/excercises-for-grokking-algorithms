@@ -1,0 +1,6 @@
+[package]
+name = "excercises-for-grokking-algorithms"
+version = "0.1.0"
+authors = ["Toru Kobayashi <koba0004@gmail.com>"]
+
+[dependencies]
